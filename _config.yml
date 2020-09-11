@@ -1,1 +1,8 @@
 theme: jekyll-theme-minimal
+title: OpenTabs
+author: C. Rizzo
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  Thinking through the internet one tab at a time.
+# social links
+github_username:  c-rizzo
